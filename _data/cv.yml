@@ -2,71 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Mathieu Roget
+      value: Xiaoyu SUN
     - name: Date of Birth
-      value: 19th July 1998
+      value: 8th November 1998
     - name: Languages
-      value: French, English
+      value: Chinese, English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (Student)
+    - title: PhD 
       institution: Université Aix-Marseille, France
-      year: Proceeding
+      year: Dec.2022- 
       
-    - title: Master in Computer Science
-      institution: École normale supérieure de Lyon (ENS Lyon), France
-      year: 2021
+    - title: Mater of Science (Quantum Fields and Fundamental Forces)
+      institution: Imperial College London, UK
+      year: 2020-2021
 
-    - title: BA in Computer Science
-      institution: École normale supérieure de Lyon (ENS Lyon), France
-      year: 2019
+    - title: Bachelor of Science (Materials Physics)
+      institution:  University of Sheffield, UK
+      year: 2016-2020
 
-    - title: BA in Mathematics
-      institution: Université Lyon 1, France
-      year: 2019
+    - title: Bachelor of Engineering (Materials Science and Engineering)
+      institution: Nanjing Tech University, China
+      year: 2016-2020
 
 - title: Internships
   type: time_table
   contents:
-    - title: Internship:&nbsp; Distributed Quantum Computation
-      institution: IST, Libon, Portugal
-      year: 2022
 
-    - title: Internship:&nbsp; Quantum walk for searching algorithms
-      institution: Université Aix-Marseille, France
-      year: 2021
+    - title: Internship:&nbsp; Quantum information 
+      institution: Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA), China
+      year: Oct.2022-June.2022
 
-    - title: Internship:&nbsp; Quantum Machine Learning
-      institution: Université Aix-Marseille, France
-      year: 2021
+    - title: Internship:&nbsp; Quantum machine learning
+      institution: JD explore Academy, Beijing, China
+      year: June.2022-Dec.2021
 
-    - title: Internship:&nbsp; aggregation score for temporal series' prevision
-      institution: Sorbonne University, France
-      year: 2020
-      description:
 
-    - title: Internship :&nbsp; Quantum walk 
-      institution: Université Aix-Marseille, France
-      year: 2019
 
-- title: Academic Interests
-  type: list
-  contents:
-    - Quantum computing
-    - Machine learning
-    - Distributed computing
-    - Chaos theory
-    - Optimization
-
-- title: Programmation languages
-  type: list
-  contents:
-    - Python  &#9733; &#9733; &#9733; &#9733; &#9733;
-    - C++/C &#9733; &#9733; &#9733; &#9733; &#9734;
-    - Rust &#9733; &#9733; &#9733; &#9733; &#9734;
-    - Java &#9733; &#9733; &#9733; &#9734; &#9734;
-    - Ocaml &#9733; &#9733; &#9733; &#9734; &#9734;
-    - Mathematica &#9733; &#9733; &#9734; &#9734; &#9734;
-    - R &#9733; &#9733; &#9734; &#9734; &#9734;
