@@ -21,4 +21,4 @@ Hi I am Xiaoyu Sun, a 2nd year PhD student surpervised by Prof. <a href='https:/
 I'm a member of <a href='https://cana.lis-lab.fr/'>CANA (Natural Computation)</a> of <a href='https://www.lis-lab.fr/'>LIS UMR7020</a>.
 
 >
-My current interests are near-term quantum computing with noise, quantum machine learning, quantum walks and quantum celluar automata.
+My current interests are near-term quantum computing with noise, quantum machine learning, quantum walks and quantum cellular automata.
