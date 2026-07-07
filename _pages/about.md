@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 >
-Hi I am Xiaoyu Sun, a 4th-year PhD student surpervised by Prof. <a href='https://www.giuseppe-dimolfetta.com/'>Giuseppe Di Molfetta</a> and Prof. <a href='https://hachem-kadri.pedaweb.univ-amu.fr/wordpress/'>Hachem KADRI</a>. 
-I'm a member of <a href='https://cana.lis-lab.fr/'>CANA (Natural Computation)</a> of <a href='https://www.lis-lab.fr/'>LIS UMR7020</a>.
+Hello, I am Xiaoyu Sun. I received my PhD. in Computer Science from Aix-Marseille University under the supervision of Prof. <a href='https://www.giuseppe-dimolfetta.com/'>Giuseppe Di Molfetta</a> and Prof. <a href='https://hachem-kadri.pedaweb.univ-amu.fr/wordpress/'>Hachem KADRI</a>. 
+I am a non-permanent member of the <a href="https://cana.lis-lab.fr/">CANA (Natural Computation)</a> team at the <a href="https://www.lis-lab.fr/">Laboratoire d'Informatique et Systèmes (LIS UMR 7020)</a>.
 
 >
-My current interests are quantum machine learning, quantum algorithms and complexities，quantum walks and near-term quantum computing with noise.
+My PhD. research focused on quantum machine learning, and my current research interests include quantum computational complexity, quantum algorithms for machine learning, quantum information and quantum entanglement.
