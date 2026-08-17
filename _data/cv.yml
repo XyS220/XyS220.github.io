@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD 
-      institution: Université Aix-Marseille, France
+    - title: Doctoral (Doctorat en Informatique)
+      institution: Aix-Marseille Université, France
       year: Dec.2022-May.2026 
       
     - title: Master of Science (Quantum Fields and Fundamental Forces)
@@ -20,7 +20,7 @@
       year: 2020-2021
 
     - title: Bachelor of Science (Materials Physics)
-      institution:  University of Sheffield, UK
+      institution: University of Sheffield, UK
       year: 2016-2020
 
     - title: Bachelor of Engineering (Materials Science and Engineering)
